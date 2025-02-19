@@ -3,7 +3,7 @@
     "short_name": "quem sou eu ",
     "description": "gincana entre jovens IEAB",
     "start_url": "/IEAB-gincana",
-    "theme_color": "#444cf7",
+    "theme_color": "#e5e5f7",
     "background_color": "#e5e5f7",
     "display": "fullscreen",
     "icons": []
